@@ -1,0 +1,27 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Training outputs and checkpoints
+**/saved_models/
+**/checkpoints/
+**/*.log
+
+# Generated parser library
+parser/*.so
+parser/build/
+
+# Local datasets and derived files
+Data/train_data.csv
+Data/val_data.csv
+Data/test_data.csv
+Data/*.jsonl
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db

@@ -1,0 +1,53 @@
+{
+  "CLEAN": {
+    "0": 0
+  },
+  "DIFFERENT_METHOD_SAME_ARGS": {
+    "0": 1
+  },
+  "OVERLOAD_METHOD_MORE_ARGS": {
+    "0": 2
+  },
+  "CHANGE_UNARY_OPERATOR": {
+    "0": 3
+  },
+  "OVERLOAD_METHOD_DELETED_ARGS": {
+    "0": 4
+  },
+  "CHANGE_NUMERAL": {
+    "0": 5
+  },
+  "CHANGE_IDENTIFIER": {
+    "0": 6
+  },
+  "SWAP_BOOLEAN_LITERAL": {
+    "0": 7
+  },
+  "CHANGE_CALLER_IN_FUNCTION_CALL": {
+    "0": 8
+  },
+  "CHANGE_MODIFIER": {
+    "0": 9
+  },
+  "CHANGE_OPERATOR": {
+    "0": 10
+  },
+  "CHANGE_OPERAND": {
+    "0": 11
+  },
+  "LESS_SPECIFIC_IF": {
+    "0": 12
+  },
+  "MORE_SPECIFIC_IF": {
+    "0": 13
+  },
+  "SWAP_ARGUMENTS": {
+    "0": 14
+  },
+  "DELETE_THROWS_EXCEPTION": {
+    "0": 15
+  },
+  "ADD_THROWS_EXCEPTION": {
+    "0": 16
+  }
+}
